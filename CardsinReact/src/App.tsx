@@ -9,7 +9,8 @@ function App() {
     <>
       <div className='App'>
         <Badge
-        text="New Post"/>
+        text="New Post"
+        filled={true}/>
       </div>
     </>
   )
